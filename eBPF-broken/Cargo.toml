@@ -1,0 +1,10 @@
+[package]
+name = "eBPF-broken"
+version = "0.1.0"
+edition.workspace = true
+
+[dependencies]
+aya-ebpf = { workspace = true }
+
+[build-dependencies]
+which = { workspace = true }

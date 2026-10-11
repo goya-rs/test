@@ -1,0 +1,4 @@
+/target
+*.elf
+loader-go/loader
+loader-go/.ebpf/
